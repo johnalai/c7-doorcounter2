@@ -1,5 +1,6 @@
 # C7 Door Counter
 
+[![Node.js CI](https://github.com/johnalai/c7-doorcounter2/actions/workflows/node.js.yml/badge.svg)](https://github.com/johnalai/c7-doorcounter2/actions/workflows/node.js.yml)
 An actual door counter app (like we built on day 1)
 
 ## Quick start:
@@ -10,7 +11,6 @@ An actual door counter app (like we built on day 1)
 
 Point your browser at http://localhost:5000/
 
-
 ## Developer Setup
 
 ### Launching the server
@@ -18,7 +18,7 @@ Point your browser at http://localhost:5000/
     cd server
     npm start
 
-Your server will now be running on port 5000.  It will serve the latest build of the client application.  If you do not have a latest build then that is OK too, just launch the client as below to work on the front end.
+Your server will now be running on port 5000. It will serve the latest build of the client application. If you do not have a latest build then that is OK too, just launch the client as below to work on the front end.
 
 ### Running up the client in development mode
 
